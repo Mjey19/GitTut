@@ -3,6 +3,7 @@ body {
   height: 100%;
   background-color: rgb(16, 8, 39);
   font-family: "Josefin Sans", sans-serif;
+  box-sizing: border-box;
 }
 
 .wrapper {
